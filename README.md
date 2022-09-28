@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="Media/social-data-mining.png"  width="640" height="240">
+<img src="Media/social-data-mining.png"  width="640" height="220">
 </p>
 
 This repository includes tasks reports created as part of the Data Mining and Data Warehousing course at the Ben-Gurion University of the Negev
