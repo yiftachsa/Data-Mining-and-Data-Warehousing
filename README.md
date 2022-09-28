@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://www.eurixgroup.com/wp-content/uploads/2021/01/ml-e1610553826718.jpg"  width="500" height="306">
+<img src="Media/social-data-mining.png"  width="640" height="240">
 </p>
 
 This repository includes tasks reports created as part of the Data Mining and Data Warehousing course at the Ben-Gurion University of the Negev
@@ -12,12 +12,10 @@ The introduces the area of data science. An overview of data preparation techniq
 
 ## Assignments
 <p float="left">
-  <img src="Media/ass1.png" width=27% />
-  <img src="Media/ass1_2.png" width=32% />
-  <img src="Media/ass2.png" width=38% /> 
-  <img src="Media/ass2_3.png" width=24% />
-  <img src="Media/ass2_2.png" width=42% />
-  <img src="Media/ass1_5.png" width=31% />
+  <img src="Media/ass1_1.png" width=27% />
+  <img src="Media/ass3_2.jpg" width=21% />
+  <img src="Media/GINI100.png" width=21% /> 
+  <img src="Media/ID3-tree-minimized.jpg" width=27% />
 </p>
 
 [Assignment 1](Assignments/Assignment1) - Introduction to Data Mining, Normalization, Entropy, Information Theory, Decision Trees (ID3).
