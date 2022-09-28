@@ -7,7 +7,7 @@
 
 This repository includes tasks reports created as part of the Data Mining and Data Warehousing course at the Ben-Gurion University of the Negev
 
-The introduces the area of data science. An overview of data preparation techniques is taught, along with the necessary background on Information Theory. In addition, the course covers the most common data mining and machine learning methods including **Decision Trees, Info-Fuzzy Networks, Artificial Neural Networks, Bayesian Learning, Instance-Based Learning, Support Vector Machines, Association Rules, and Cluster Analysis**. The course concludes with the basic concepts of **Data Warehousing, Online Analytical processing, and Business Intelligence (BI).** In the practice classes, we solved real-world problems using techniques and algorithms learned in the class. In the lab classes, we gained hands-on experience in using three popular data mining tools: **R, RapidMiner, and Python.**
+The course introduces the field of data science. An overview of data preparation techniques is taught, along with the necessary background on Information Theory. In addition, the course covers the most common data mining and machine learning methods including **Decision Trees, Info-Fuzzy Networks, Artificial Neural Networks, Bayesian Learning, Instance-Based Learning, Support Vector Machines, Association Rules, and Cluster Analysis**. The course concludes with the basic concepts of **Data Warehousing, Online Analytical processing, and Business Intelligence (BI).** In the practice classes, we solved real-world problems using techniques and algorithms learned in the class. In the lab classes, we gained hands-on experience in using three popular data mining tools: **R, RapidMiner, and Python.**
 
 
 ## Assignments
