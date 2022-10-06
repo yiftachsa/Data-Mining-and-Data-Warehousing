@@ -27,7 +27,6 @@ The course introduces the field of data science. An overview of data preparation
 [Assignment 4](https://github.com/yiftachsa/Clustering) | [Report & instructions](Assignments/Assignment4)- Clustering using Python and Scikit-learn, Pandas and Plotly.
 
 
-
 <p align="center">
 <img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
 </p>
